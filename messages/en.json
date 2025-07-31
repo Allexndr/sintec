@@ -1,0 +1,137 @@
+{
+  "navigation": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Production of High-Quality Lubricants",
+    "description": "Innovative solutions for industry and transport",
+    "cta": "Go to Catalog",
+    "quality": "Quality"
+  },
+  "features": {
+    "title": "Why Choose Sintec",
+    "quality": {
+      "title": "High Quality",
+      "description": "Products meet international ISO and API standards"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Continuous development of new formulas and technologies"
+    },
+    "support": {
+      "title": "Technical Support",
+      "description": "Professional consultation and technical support"
+    },
+    "delivery": {
+      "title": "Fast Delivery",
+      "description": "Delivery throughout Kazakhstan in the shortest time"
+    }
+  },
+  "about": {
+    "title": "About Sintec",
+    "description": "We are a leading manufacturer of high-quality lubricants in Kazakhstan, specializing in the development and production of innovative solutions for various industries.",
+    "stats": {
+      "years": "Years in Market",
+      "clients": "Satisfied Clients",
+      "products": "Product Types",
+      "quality": "Quality"
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality",
+        "description": "We produce products that meet international ISO, API standards and other industry requirements."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We constantly work on improving formulas and developing new products for specific tasks."
+      },
+      "clients": {
+        "title": "Customer Focus",
+        "description": "We put customer needs first, offering customized solutions and technical support."
+      },
+      "sustainability": {
+        "title": "Sustainable Development",
+        "description": "We develop environmentally responsible technologies and products for the future."
+      }
+    }
+  },
+  "catalog": {
+    "title": "Product Catalog",
+    "description": "Complete range of lubricants for various applications",
+    "search": "Search products...",
+    "filters": "Filters",
+    "clearFilters": "Clear Filters",
+    "noResults": "Categories not found",
+    "noResultsDescription": "Try changing your search query",
+    "productsCount": "products",
+    "categories": {
+      "motor-oils": "Motor Oils",
+      "transmission-oils": "Transmission Oils",
+      "greases": "Greases",
+      "hydraulic-oils": "Hydraulic Oils",
+      "special-oils": "Special Oils",
+      "industrial-oils": "Industrial Oils"
+    },
+    "descriptions": {
+      "motor-oils": "Motor oils for gasoline and diesel engines",
+      "transmission-oils": "Transmission oils for gearboxes and reducers",
+      "greases": "Plastic lubricants for various friction units",
+      "hydraulic-oils": "Hydraulic oils for hydraulic systems",
+      "special-oils": "Special oils for specific applications",
+      "industrial-oils": "Industrial oils for various industries"
+    }
+  },
+  "product": {
+    "viewDetails": "View Details",
+    "downloadPdf": "Download PDF",
+    "downloadMsds": "Download MSDS",
+    "specifications": "Specifications"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Enter product name or SKU...",
+    "popularCategories": "Popular Categories",
+    "noResults": "No products found",
+    "loading": "Searching..."
+  },
+  "contacts": {
+    "title": "Contacts",
+    "description": "Contact us for consultation or to place an order",
+    "form": {
+      "title": "Feedback",
+      "name": "Your Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Message sent successfully!",
+      "error": "Error sending message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "workingHours": "Working Hours",
+      "addressValue": "Almaty, Sadovnikova St.",
+      "workingHoursValue": "Mon-Fri: 9:00-18:00"
+    }
+  },
+  "footer": {
+    "description": "Leading manufacturer of lubricants in Kazakhstan",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "contact": "Contact",
+    "copyright": "© 2024 Sintec. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close"
+  }
+} 
